@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "gatsby": "^3.7.1",
-    "gatsby-theme-portfolio-minimal": "^2.5.0",
+    "gatsby-theme-portfolio-minimal": "latest",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
